@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\C# Projects\\CoordSystem\\CoordSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A514139-B944-4750-8A58-9A009A4C3A33}|CoordSystem\\CoordSystem.csproj|c:\\c# projects\\coordsystem\\coordsystem\\coordsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A514139-B944-4750-8A58-9A009A4C3A33}|CoordSystem\\CoordSystem.csproj|solutionrelative:coordsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\C# Projects\\CoordSystem\\CoordSystem\\CoordSystem\\Program.cs",
+              "RelativeDocumentMoniker": "CoordSystem\\Program.cs",
+              "ToolTip": "C:\\C# Projects\\CoordSystem\\CoordSystem\\CoordSystem\\Program.cs",
+              "RelativeToolTip": "CoordSystem\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T21:33:56.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

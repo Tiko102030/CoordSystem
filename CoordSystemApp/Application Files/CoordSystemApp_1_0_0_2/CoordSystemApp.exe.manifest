@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CoordSystemApp.exe" version="1.0.0.2" publicKeyToken="e7ef7b0221ecbcd7" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CoordSystemApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CoordSystemApp.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CoordSystemApp.exe" size="23976">
+      <assemblyIdentity name="CoordSystemApp" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>287b7Q1sjq70zvEQOrx79qujhytkiFoQWab1p9Y8pZ4=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CoordSystemApp.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=TIKOPC\tikho" issuerKeyHash="efa4e7fcc5e0709f09bd4ffafb5473760280b681" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>m7dQ3timb/1GjWRwEODDpsIwSFzgv8ox0+bnJfiku/U=</DigestValue></Reference></SignedInfo><SignatureValue>Xg68CJBULBxjqCPRy2M6t84gQgqOQG+CAi4Z5f+2UU7uYTUjvYNxalfCCYULy2eYl18OG2inHdFO4AdswOKqvcylZ+RICiz52mumppZv1J3vRc9+y6ct3G0unjcBvdkkXCnGOOs2iyLEV8uShW1u2GF8aWkJ5dc0mlba8JMK7GA=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>wepojN/0w/vE8j/okJC6rXViXXoujY+PJqMVHS7MZUU1o9o7SNy6Sa4PzOx5H/+ZOrrM3LaibyUkEULxWSDZBdEZXPRGjSKKX44P5hvJ8vmIaHqKTAM7rFVQlYXnsJrQ4Khk7Kc/szCT6auQDYk8fg9ijv2jllFC8sOzpDyf8I0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f5bba4f825e7e6d331cabfe05c4830c2a6c3e01070648d46fd6fa6d8de50b79b" Description="" Url=""><as:assemblyIdentity name="CoordSystemApp.exe" version="1.0.0.2" publicKeyToken="e7ef7b0221ecbcd7" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=TIKOPC\tikho</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>PleyWjnHKJpM74tBF+ngIXNfV0xByni592iGZbqmJtY=</DigestValue></Reference></SignedInfo><SignatureValue>LINmsMRy8+dRxDoxzxW+dJ10U4khfiQnv5OLoj8PKDh0I4SNeKyLwyOwmRZz/TX45WOoHIOWXCnkGzqxx4Nf0tXzXnmLoNruxsrR5KoMAgS9HFQPurI27aKYRUn3fC9c92yX0W+jJUBVEuHoTMeNf5UfabcjoWpN7TSmF1ij0AI=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>wepojN/0w/vE8j/okJC6rXViXXoujY+PJqMVHS7MZUU1o9o7SNy6Sa4PzOx5H/+ZOrrM3LaibyUkEULxWSDZBdEZXPRGjSKKX44P5hvJ8vmIaHqKTAM7rFVQlYXnsJrQ4Khk7Kc/szCT6auQDYk8fg9ijv2jllFC8sOzpDyf8I0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQNxsZUM4IwJZJikkn6/zsGjANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgAVABJAEsATwBQAEMAXAB0AGkAawBoAG8wHhcNMjUwMTA1MjMxNDU1WhcNMjYwMTA2MDUxNDU1WjAjMSEwHwYDVQQDHhgAVABJAEsATwBQAEMAXAB0AGkAawBoAG8wgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAMHqaIzf9MP7xPI/6JCQuq11Yl16Lo2PjyajFR0uzGVFNaPaO0jcukmuD8zseR//mTq6zNy2om8lJBFC8Vkg2QXRGVz0Ro0iil+OD+YbyfL5iGh6ikwDO6xVUJWF57Ca0OCoZOynP7Mwk+mrkA2JPH4PYo79o5ZRQvLDs6Q8n/CNAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAUBBYPT0G7Ef51WXeHj6jaoYt0cAt4psCWZ+aqBDqAoT6sYhnFGehaj0V7YkegwkvHiHw2BaO9jb/LxcC7BrWMgKnheNDBM6YQ5WyICP8vfox5sBm7dm6QIQG05fXe8R/DyLqDUDxwSlRYFla85JI+qHkMvBRVt2VfoqRorLDxDA=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

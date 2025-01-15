@@ -1,0 +1,14 @@
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\bin\Debug\CoordSystemApp.exe.config
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\bin\Debug\CoordSystemApp.exe.manifest
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\bin\Debug\CoordSystemApp.application
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\bin\Debug\CoordSystemApp.exe
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\bin\Debug\CoordSystemApp.pdb
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\obj\Debug\CoordSystemApp.csproj.AssemblyReference.cache
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\obj\Debug\CoordSystemApp.Form1.resources
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\obj\Debug\CoordSystemApp.Properties.Resources.resources
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\obj\Debug\CoordSystemApp.csproj.GenerateResource.cache
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\obj\Debug\CoordSystemApp.csproj.CoreCompileInputs.cache
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\obj\Debug\CoordSystemApp.exe.manifest
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\obj\Debug\CoordSystemApp.application
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\obj\Debug\CoordSystemApp.exe
+C:\C# Projects\CoordSystem\CoordSystemApp\CoordSystemApp\obj\Debug\CoordSystemApp.pdb

@@ -1,0 +1,15 @@
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\obj\Debug\net8.0\CoordSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\obj\Debug\net8.0\CoordSystem.AssemblyInfoInputs.cache
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\obj\Debug\net8.0\CoordSystem.AssemblyInfo.cs
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\obj\Debug\net8.0\CoordSystem.csproj.CoreCompileInputs.cache
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\obj\Debug\net8.0\CoordSystem.sourcelink.json
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\bin\Debug\net8.0\CoordSystem.exe
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\bin\Debug\net8.0\CoordSystem.deps.json
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\bin\Debug\net8.0\CoordSystem.runtimeconfig.json
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\bin\Debug\net8.0\CoordSystem.dll
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\bin\Debug\net8.0\CoordSystem.pdb
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\obj\Debug\net8.0\CoordSystem.dll
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\obj\Debug\net8.0\refint\CoordSystem.dll
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\obj\Debug\net8.0\CoordSystem.pdb
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\obj\Debug\net8.0\CoordSystem.genruntimeconfig.cache
+C:\C# Projects\CoordSystem\CoordSystem\CoordSystem\obj\Debug\net8.0\ref\CoordSystem.dll
